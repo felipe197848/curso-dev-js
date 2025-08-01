@@ -1,0 +1,35 @@
+JavaScript é uma linguagem de programação de alto nível, usada principalmente para adicionar interatividade a páginas web, mas também pode ser usada no backend com Node.js. É fundamental para o desenvolvimento front-end e oferece recursos como animações, manipulação de conteúdo dinâmico e interações com o usuário. 
+O que é JavaScript?
+Linguagem de programação:
+JavaScript é uma linguagem de script que permite adicionar funcionalidades dinâmicas a páginas web. 
+Interatividade:
+É a linguagem mais comum para adicionar interatividade em sites, como menus suspensos, formulários, galerias de fotos e animações. 
+Front-end e Back-end:
+JavaScript é amplamente utilizado no desenvolvimento front-end (lado do cliente) e também pode ser usado no back-end com Node.js, permitindo a criação de aplicações web completas. 
+Linguagem interpretada:
+O código JavaScript é interpretado e executado diretamente no navegador web, o que agiliza a interação com o usuário. 
+Versatilidade:
+JavaScript é uma linguagem flexível e pode ser usada para uma variedade de tarefas, desde a criação de interfaces interativas até o desenvolvimento de jogos e aplicativos. 
+Como JavaScript funciona:
+Scripts em HTML:
+O código JavaScript é normalmente incorporado em arquivos HTML ou carregado a partir de arquivos externos. 
+Interação com o DOM:
+JavaScript interage com o Document Object Model (DOM), que representa a estrutura da página web, permitindo a manipulação de elementos HTML e CSS. 
+Execução no navegador:
+O navegador possui um motor JavaScript que interpreta e executa o código JavaScript. 
+Exemplos de uso:
+Conteúdo dinâmico:
+Atualização de informações em tempo real, como resultados de jogos ou cotações de ações. 
+Mapas interativos:
+Integração de mapas com funcionalidades de zoom, localização e marcadores. 
+Gráficos animados:
+Criação de gráficos 2D e 3D animados para visualização de dados. 
+Jogos:
+Desenvolvimento de jogos para web com interatividade e gráficos avançados. 
+Diferenças entre Java e JavaScript:
+É importante não confundir Java e JavaScript. Apesar do nome semelhante, são linguagens diferentes com finalidades distintas. Java é uma linguagem de programação compilada, enquanto JavaScript é uma linguagem interpretada. 
+Recursos para aprender:
+MDN Web Docs: oferece uma vasta documentação e tutoriais sobre JavaScript.
+freeCodeCamp: oferece cursos gratuitos de JavaScript.
+Codecademy: oferece cursos interativos de JavaScript.
+DevMedia: oferece tutoriais e exemplos de código sobre JavaScript. 
